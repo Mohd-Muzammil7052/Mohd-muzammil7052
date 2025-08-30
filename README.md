@@ -8,7 +8,7 @@
 - 📊 Strong foundation in **Machine Learning, Deep Learning, NLP, and Data Science**  
 - 💡 Passionate about **AI innovation, computer vision, and generative AI**  
 - 🛠️ Experienced with both **academic and real-world AI projects**  
-- 📚 Constant learner exploring **LLMs, and RAG**  
+- 📚 Constant learner exploring **LLMs, GenAI and RAG**  
 
 ---
 
