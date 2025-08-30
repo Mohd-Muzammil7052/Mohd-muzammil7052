@@ -29,19 +29,19 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Muzammil7052&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Muzammil7052&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/mohd-muzammil-109044290/)  
 - 🐙 [GitHub](https://github.com/Mohd-Muzammil7052)  
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/MUZAMMIL0786/)  
 - 📧 **Email:** mohdmuzammilxiia1338@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
+
+![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Muzammil7052&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Muzammil7052&layout=compact&theme=tokyonight)  
 
 ---
 
