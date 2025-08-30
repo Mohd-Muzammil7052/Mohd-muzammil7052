@@ -48,7 +48,3 @@
 ⭐️ *“Passionate about applying AI to solve real-world problems and create meaningful impact.”*  
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-muzammil7052&show_icons=true&locale=en&layout=compact" alt="mohd-muzammil7052" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-muzammil7052&show_icons=true&locale=en" alt="mohd-muzammil7052" /></p>
